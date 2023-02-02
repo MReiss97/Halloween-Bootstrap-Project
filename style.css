@@ -1,0 +1,64 @@
+.body {
+  background-color: #8A51AF;
+}
+.sticky {
+   position: fixed;
+  top: 0;
+}
+
+.navimg{
+  width: 15%
+}
+.navbar{
+  opacity: 90%;
+}
+.font{
+  font-family: 'Bangers', cursive;
+}
+.text{
+  font-family: 'Neucha', cursive;
+}
+.jumbotron {
+border-width:medium;
+    background-color:#8A51AF;
+color: white;
+}
+.border {
+    background-color:#8A51AF;
+   border-style:solid;
+  border-color: orange;
+  border-width: 3px; 
+}
+.card{
+   background-color:#8A51AF;
+}
+.card-body {
+    background-color:#8A51AF;
+  color: white;
+}
+
+.jumbotron > h1 {
+   border-style:solid;
+  border-color: orange;
+}
+p{
+     border-style:solid;
+  border-color: orange;
+  border-width: 2px;
+}
+ul {
+     border-style:solid;
+  border-color: orange;
+  border-width: 1px;
+}
+.carousel {
+    background-color:#8A51AF;
+}
+.image{
+  border-style:solid;
+  border-color: orange;
+  border-width: 2px;
+}
+  html{
+     scroll-behavior: smooth;;
+   }
